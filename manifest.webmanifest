@@ -1,0 +1,24 @@
+{
+  "name": "Bohusleden – Mina etapper",
+  "short_name": "Bohusleden",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f1e8",
+  "theme_color": "#183d2b",
+  "lang": "sv",
+  "icons": [
+    {
+      "src": "asdacp.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "asdacp.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
